@@ -92,7 +92,7 @@ const Login = ({ onLogin }) => {
             <div className="w-12 h-12 bg-gradient-to-tr from-cyan-600 to-teal-600 rounded-xl flex items-center justify-center shadow-lg shadow-cyan-600/25">
               <Activity className="text-white w-6 h-6" />
             </div>
-            <span className="text-2xl font-bold text-slate-900 tracking-tight">Kydoc</span>
+            <span className="text-2xl font-bold text-slate-900 tracking-tight">Skin Care Management By <span>Kyle Infotech</span> </span>
           </div>
 
           <div className="mb-10">
